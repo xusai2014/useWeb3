@@ -26,7 +26,6 @@ dateAdded: 2022-01-15
 
 ## 资源
 
-The following resources have been the most popular resources on the site for a long time. These are all highly recommend to start learning about Solidity
 以下资源长期以来一直是该网站上最受欢迎的资源。如果开始学习Solidity，这些都是强烈推荐：
 
 
@@ -58,10 +57,10 @@ https://speedrunethereum.com/
 
 ### 5. 智能合约最佳实践
 
-智能合约是一种有权在复杂系统之间分配高价值资源的复杂工具。经常自主工作。面临着巨大的经济损失的风险。这使得它们成为这些系统中的关键组件。这些组件的开发需要深思熟虑的设计、坚实的工程实践、严格的测试和强大的安全心态。本文档提供了一个关于安全考虑事项的基本知识。
+智能合约是一种有权在复杂系统之间分配高价值资源的复杂工具。经常自主工作并伴随着巨大的经济损失的风险。这使得它们成为这些系统中的关键组件。这些组件的开发需要深思熟虑的设计、坚实的工程实践、严格的测试和强大的安全心态。本文档提供了一个关于安全考虑事项的基本知识。
 
 https://consensys.github.io/smart-contract-best-practices/
 
 
 ## 其它资源
-如果你想阅读更多内容， 确保迁出网站上其它 [Solidity](/tags/smart%20contracts) 资源.
+如果你想阅读更多内容，请查看网站上其它 [Solidity](/tags/smart%20contracts) 资源.
