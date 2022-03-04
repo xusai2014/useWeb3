@@ -22,7 +22,7 @@ dateAdded: 2022-01-15
 
 区块链新手？让我们从推动区块链创建和发展的历史及其基础开始。
 
-- [一位网络朋克的宣言](https://www.activism.net/cypherpunk/manifesto.html), Eric Hughes
+- [一份赛伯朋克宣言](https://www.activism.net/cypherpunk/manifesto.html), Eric Hughes
 - [为什么去中心化很重要](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e), Chris Dixon
 - [区块链的承诺](https://vimeo.com/161183966) (VIDEO), Vinay Gupta
 - [从开放平台到数字共享的转变](http://www.bollier.org/blog/shift-open-platforms-digital-commons), David Bollier
