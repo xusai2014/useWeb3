@@ -39,7 +39,7 @@ Web3是关于网络的下一次发展。一个更加开放、透明和分散的W
 ## 进阶阅读
 
 - [一份赛伯朋克宣言](/guides/A-Cypherpunk-s-Manifesto), Eric Hughes
-- [去中心化的意义](https://medium.com/@VitalikButerin/the-meaning-of-decentralization-a0c92b76a274), Vitalik Buterin
+- [去中心化的意义](/guides/the-meaning-of-decentralization), Vitalik Buterin
 - [为什么去中心化很重要](https://onezero.medium.com/why-decentralization-matters-5e3f79f7638e), Chris Dixon
 - [什么是web3.0以及它的重要性](https://medium.com/fabric-ventures/what-is-web-3-0-why-it-matters-934eb07f3d2b), Max Mersch and Richard Muirhead
 - [Web3到底是什么？](https://youtu.be/l44z35vabvA), Juan Benet (VIDEO)
