@@ -114,7 +114,10 @@ export class MarkdownContentService implements ItemServiceInterface {
       items = items.concat(itemsByCategory)
     })
 
-    return items.filter((i) => (featured ? i.featured === featured : true) && ( typeof include_third === 'undefined' ? true : i.third !== true))
+    return items.filter(
+      (i) =>
+        (featured ? i.featured === featured : true) && (typeof include_third === 'undefined' ? true : i.third !== true)
+    )
   }
 
   public async GetItemsByTag(tag: string): Promise<Array<ContentItem>> {
